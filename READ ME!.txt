@@ -1,0 +1,5 @@
+Makefile の操作が詳しくないため、ファイルのタイトルがそのまま残します。ファイルを命名してみたがエラーが出ました。
+1. Linear_probingは発展課題フォルダに入れない。Linearprobは基本課題フォルダのの’open_addressing.c'と全く同じです。
+2. double_hashingはopen_addressing.cです。
+3. number.txtは課題が与えたdict-sample.txtです。
+4. main_open_addressing.cは、課題が与えたmain_open_addressing.cの内容を変更されたものです。
